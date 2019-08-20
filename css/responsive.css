@@ -1,0 +1,304 @@
+@media (min-width: 1280px) and (max-width: 1366px) { 
+/*.header-center .wt-header-right {
+    width: 300px;
+}*/
+.nav-wide .container {
+    padding: 0 20px;
+}
+.header-nav .nav > li > a {
+    letter-spacing: 0.5px;
+}
+.header-center .wt-header-center .header-nav .nav { 
+    padding-left: 15px;
+}
+.appointment_sec {
+    right: 5%;
+    width: 31%;
+}
+.header-nav .nav > li > a {
+    padding: 33px 10px 25px;
+}
+.second_opinion_sec { 
+    top: 8%;
+}
+}
+@media (max-width: 767px) {
+.wt-bnr-inr {
+    height: 240px;
+    padding-top: 50px;
+}
+.welcome-img1 { 
+    margin-left: 0;
+    background-size: cover !important;
+    min-height: 300px;
+    margin-right: 0;
+}
+.welcome-img2 { 
+    margin-right: 0;
+    background-size: cover !important;
+    min-height: 300px;
+    margin-left: 0;
+    margin-bottom: 0px !important;
+}
+.f-social-link.social-icons li a{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.footer-bottom .copyrights-text {
+    padding: 5px 0;
+}
+.wt-footer-bot-left, .wt-footer-bot-right{
+    padding-top: 0;
+    padding-bottom: 0	
+}
+.footer-top {
+    padding: 40px 0px;
+}
+.logo-header {
+    width: 140px;
+}
+.is-fixed .header-center .navbar-toggle { 
+    height: 50px; 
+}
+.header-center .wt-header-right{
+	display:none;	
+}
+.doctor_nav {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.wt-tabs .nav-tabs > li > a { 
+    font-size: 14px;
+}
+.dr_info h2 { 
+    font-size: 28px;
+    line-height: 33px;
+}
+.dr_info h3 { 
+    font-size: 20px;
+}
+.doctor_nav .wt-tabs.border .tab-pane {
+    padding: 40px 0 0 0;
+}
+.text-med {
+     text-align: justify;
+}
+.section-content p {
+    text-align: justify;
+}
+.more-btn-white { 
+    min-height: auto;
+}
+.more-btn-white p {
+    margin-bottom: 0;
+}
+.common_cancer_bg { 
+    height: 300px;
+}	
+.section-head h2 {
+    font-size: 20px;
+    line-height: 1.3;
+}
+.pad40 {
+    padding: 40px 15px;
+}
+
+.cancer_data_txt {
+    min-height: auto;
+}
+.row .p0:first-child {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.index-about2 { 
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.section-head p {
+    padding-top: 0; 
+}
+.mn_height500 {
+    min-height: auto;
+}
+.sm-mb30{
+	margin-bottom: 30px;	
+}
+.text-vert-center .section-head {
+    margin-top: 30px;
+}
+.text-vert-center { 
+    height: auto; 
+}
+.wt-tabs .nav-tabs > li > a {
+    padding: 10px 8px;
+}
+#imaging .list_1 li,#pathology .list_1 li { 
+    text-align: justify;
+}
+.acod-content.p-tb15 { 
+    text-align: justify;
+}
+.text_box_border {
+    padding: 40px 20px;
+}
+.pad60 {
+    padding: 60px 20px;
+}
+.use_second_opt {
+     top: 22%;
+}
+.wt-bnr-inr.med_banner {
+    height: 70vh;
+}
+.second_opinion_sec.mob_none{
+	display:none;	
+}
+.second_opinion_sec.desktop_none {
+    display: block;
+}
+.second_opinion_sec {
+    position: relative;
+    background: #f2f2f2;
+    right: 0;
+    width: 100%; 
+}
+.second_opinion_sec #form {
+    padding: 30px 20px;
+}
+.second_opinion_sec h2 {
+    font-size: 20px; 
+}
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+	.second_opinion_sec.mob_none{
+	display:none;	
+}
+.second_opinion_sec.desktop_none {
+    display: block;
+}
+.second_opinion_sec {
+    position: relative;
+    background: #f2f2f2;
+    right: 0;
+    width: 100%; 
+}
+.wt-bnr-inr.med_banner {
+    height: 50vh;
+}
+.row .p0:first-child {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.text-vert-center .section-head {
+    margin-top: 30px;
+}
+.text-vert-center { 
+    height: auto; 
+}
+.sm-mb30{
+	margin-bottom: 50px;	
+}
+.index-about2 {
+    margin-top: -5%;
+    margin-bottom: 40px;
+}
+.welcome-block-two .wt-media img {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+	
+}
+.common_cancer_bg {
+    height: 450px;
+}
+.section-content p {
+    text-align: justify;
+}
+.dr_img {
+    text-align: left;
+}
+.is-fixed .main-bar { 
+    padding: 10px;
+}	
+.logo-header {
+    width: 220px;
+}
+.welcome-img1{
+    margin-bottom: 40px;
+}	
+.welcome-img1, .welcome-img2 { 
+    background-repeat: no-repeat !important;
+}
+.welcome-img1:after{
+	width:60%;	
+}
+.welcome-img2:after{
+    left: 0px;
+	width:60%;		
+}
+.wt-bnr-inr { 
+    padding-top: 73px;
+}
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+.header-nav .nav > li > a{
+    padding: 33px 7px 25px;
+}
+.header-center .wt-header-right{
+	display:none;	
+}
+.cancer_data_txt {
+    min-height: 200px;
+}
+.section-head h2 {
+    font-size: 24px; 
+}
+.common_cancer_bg {
+    height: 536px;
+}
+.pad40 {
+    padding: 40px 10px;
+}
+.contact-one .form-group {
+	margin-bottom:20px;
+}
+.second_opinion_sec { 
+    right: 3%;
+    width: 48%; 
+    top: 6%; 
+}
+.second_opinion_sec #form {
+    padding: 30px 20px; 
+}
+.second_opinion_sec h2 {
+    font-size: 20px; 
+    margin-bottom: 10px;
+}
+}
+@media (min-width: 1280px) and (max-width: 1365px) {
+.wt-bnr-inr.med_banner {
+    height: 80vh;
+}
+}
+@media (min-width: 1366px) and (max-width: 1399px) {
+.contact-one .form-group {
+    margin-bottom: 15px;
+}
+.second_opinion_sec h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.second_opinion_sec {
+    top: 6%;
+}
+}
+@media (min-width: 1400px) and (max-width: 1599px) {
+.second_opinion_sec {
+    top: 6%;
+}
+}
+@media (min-width: 1600px) and (max-width: 1680px) {
+.second_opinion_sec {
+    top: 6%;
+}
+}
